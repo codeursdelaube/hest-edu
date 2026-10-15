@@ -1,0 +1,123 @@
+FAQ</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3f971d9a elementor-widget elementor-widget-accordion" data-id="3f971d9a" data-element_type="widget" data-e-type="widget" data-widget_type="accordion.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-accordion">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1061" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-1061" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-plus"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-minus"></i></span>
+														</span>
+												<a class="elementor-accordion-title" tabindex="0">Les candidats titulaires du bac littéraire peuvent-ils intégrer le parcours  sciences informatiques?</a>
+					</div>
+					<div id="elementor-tab-content-1061" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-1061"><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1062" class="elementor-tab-title" data-tab="2" role="button" aria-controls="elementor-tab-content-1062" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-plus"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-minus"></i></span>
+														</span>
+												<a class="elementor-accordion-title" tabindex="0">Quelles sont les conditions à remplir pour bénéficier d'une bourse d'étude ?</a>
+					</div>
+					<div id="elementor-tab-content-1062" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-1062"><p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1063" class="elementor-tab-title" data-tab="3" role="button" aria-controls="elementor-tab-content-1063" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-plus"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-minus"></i></span>
+														</span>
+												<a class="elementor-accordion-title" tabindex="0">Le Master est en cours du soir ou de nuit?</a>
+					</div>
+					<div id="elementor-tab-content-1063" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-1063">Contenu d’accordéon</div>
+				</div>
+								</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+	
+	
+</div><!-- .entry-content .clear -->
+
+	
+	
+</article><!-- #post-## -->
+
+			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+	</div> <!-- ast-container -->
+	</div><!-- #content -->
+		<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class='footer-width-fixer'></div>		</footer>
+	<div class="ekit-template-content-markup ekit-template-content-footer">		<div data-elementor-type="wp-post" data-elementor-id="25332" class="elementor elementor-25332">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-1899eb45 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1899eb45" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b873ec1" data-id="b873ec1" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-5c580e43 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c580e43" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-f18a6fb" data-id="f18a6fb" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f87acfb elementor-widget elementor-widget-elementskit-heading" data-id="f87acfb" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_left   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--subtitle elementskit-section-subtitle  elementskit-style-border">
+						Liens Utiles
+					</h2></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5f7a3f94 elementor-widget elementor-widget-elementskit-page-list" data-id="5f7a3f94" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-page-list.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >		<div class="elementor-icon-list-items ">
+							<div class="elementor-icon-list-item   ">
+						<a class="elementor-repeater-item-18cb473 ekit_badge_left" href="https://www.hest-edu.net/formations/">
+							<div class="ekit_page_list_content">
+																<span class="elementor-icon-list-text">
+									<span class="ekit_page_list_title_title">Formations</span>
+																	</span>
+							</div>
+													</a>
+					</div>
+								<div class="elementor-icon-list-item   ">
+						<a class="elementor-repeater-item-3b0de6f ekit_badge_left" href="https://www.hest-edu.net/inscription-form/">
+							<div class="ekit_page_list_content">
+																<span class="elementor-icon-list-text">
+									<span class="ekit_page_list_title_title">Inscriptions</span>
+																	</span>
+							</div>
+													</a>
+					</div>
+								<div class="elementor-icon-list-item   ">
+						<a class="elementor-repeater-item-2517b40 ekit_badge_left" href="https://www.hest-edu.net/fiche-metier/">
+							<div class="ekit_page_list_content">
+																<span class="elementor-icon-list-text">
+									<span class="ekit_page_list_title_title">Fiches Métiers</span>
+																	</span>
+							</div>
+													</a>
+					</div>
+								<div class="elementor-icon-list-item   ">
+						<a class="elementor-repeater-item-195fca0 ekit_badge_left" href="https://www.hest-edu.net/contact/">
+							<div class="ekit_page_list_content">
+																<span class="elementor-icon-list-text">
+									<span class="ekit_page_list_title_title">Nous Contacter</span>
+																	</span>
+							</div>
+													</a>
+					</div>
+						</div>
+		</div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-31c5bb21" data-id="31c5bb21" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap element
