@@ -34,8 +34,13 @@ export const metadata: Metadata = {
     images: [{ url: site.ogImage, alt: "Logo HEST" }],
   },
   icons: {
-    icon: "/logo.jpg",
-    apple: "/logo.jpg",
+    icon: [
+      { url: "/icon.png", type: "image/png" },
+      { url: "/favicon.ico" },
+    ],
+    apple: [
+      { url: "/apple-icon.png", type: "image/png" },
+    ],
   },
 };
 

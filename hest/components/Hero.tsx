@@ -1,10 +1,12 @@
 import Image from "next/image";
 import CTAButton from "./CTAButton";
 import InstitutionalVideo from "./InstitutionalVideo";
+import TypewriterText from "./TypewriterText";
 
 type Props = {
   kicker?: string;
   title: string;
+  typewriterSubtitleWords?: string[];
   subtitle?: string;
   imageSrc: string;
   imageAlt: string;
@@ -16,6 +18,7 @@ type Props = {
 export default function Hero({
   kicker,
   title,
+  typewriterSubtitleWords,
   subtitle,
   imageSrc,
   imageAlt,
@@ -48,8 +51,14 @@ export default function Hero({
             {kicker}
           </p>
         ) : null}
-        <h1 className="max-w-3xl font-serif text-5xl leading-[1.08] md:text-7xl">{title}</h1>
-        {subtitle ? (
+        <h1 className="max-w-3xl font-serif text-5xl leading-[1.08] md:text-7xl">
+          {title}
+        </h1>
+        {typewriterSubtitleWords && typewriterSubtitleWords.length > 0 ? (
+          <p className="mt-6 max-w-xl text-lg leading-relaxed text-white/90 md:text-xl min-h-[3em] flex items-center">
+            <TypewriterText words={typewriterSubtitleWords} />
+          </p>
+        ) : subtitle ? (
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-white/85 md:text-xl">
             {subtitle}
           </p>

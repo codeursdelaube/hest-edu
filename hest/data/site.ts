@@ -26,25 +26,33 @@ export const contact = {
     info: "info@hest-edu.net",
   },
   socials: [
-    { label: "LinkedIn", href: "", kind: "linkedin" as const },
+    {
+      label: "LinkedIn",
+      href: "https://www.linkedin.com/in/hest-%C3%A9tablissement-d-enseignement-sup%C3%A9rieur-52a7802a3",
+      kind: "linkedin" as const,
+    },
     { label: "Instagram", href: "", kind: "instagram" as const },
     { label: "Facebook", href: "", kind: "facebook" as const },
-    { label: "TikTok", href: "", kind: "tiktok" as const },
+    {
+      label: "TikTok",
+      href: "https://www.tiktok.com/@h.e.s.t.togo",
+      kind: "tiktok" as const,
+    },
   ],
 };
 
 export const nav = [
   { href: "/", label: "Accueil" },
   { href: "/formations", label: "Formations" },
-  { href: "/fiche-metier", label: "Fiche métier" },
+  { href: "/fiche-metier", label: "Fiches Métiers" },
   { href: "/bourses", label: "Bourses" },
   { href: "/inscription", label: "Inscription" },
+  { href: "/publications", label: "Publications" },
   { href: "/contact", label: "Contact" },
 ] as const;
 
 export const scholarshipBanner = {
-  text: "Bourses d'études offertes aux étudiants inscrits en Licence ou Master.",
-  // TODO Eric : montant et date limite (les chiffres 2021 du site actuel sont périmés).
+  text: "Bourses d'études rentrée 2026-2027 : jusqu'à 50% de réduction sur les frais de scolarité pour les premiers inscrits, réductions pour inscriptions anticipées et pour tous les nouveaux bacheliers !",
 };
 
 export const academicYear = {

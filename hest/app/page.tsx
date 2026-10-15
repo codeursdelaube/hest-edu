@@ -24,11 +24,20 @@ import { focusMetiers } from "@/data/visuels";
 export default function Home() {
   const [featured, ...rest] = domains;
 
+  const heroSubtitlePhrases = [
+    site.subtitle,
+    "Des diplômes d'excellence reconnus en BTS, Licence et Master.",
+    "Des partenariats de prestige pour poursuivre vos études en France.",
+    "Des bourses d'études jusqu'à 50% offertes pour la rentrée 2026-2027.",
+    "Une insertion professionnelle rapide et assurée sur le marché de l'emploi.",
+  ];
+
   return (
     <>
       <Hero
         kicker="École supérieure · Lomé"
         title={site.tagline}
+        typewriterSubtitleWords={heroSubtitlePhrases}
         subtitle={site.subtitle}
         imageSrc="/Hero.jpg"
         imageAlt="Vidéo institutionnelle HEST"

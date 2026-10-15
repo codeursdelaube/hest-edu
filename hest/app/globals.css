@@ -132,3 +132,13 @@ select:focus-visible {
     padding-block: 6.5rem;
   }
 }
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.typewriter-cursor {
+  animation: blink 0.9s infinite;
+}
+
