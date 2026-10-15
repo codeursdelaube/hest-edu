@@ -36,6 +36,8 @@ export default function Header() {
             />
           </div>
 
+
+
         </Link>
 
         {/* Center: Modern Dark Pill Navigation Bar (as in reference mockup) */}
